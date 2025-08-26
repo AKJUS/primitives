@@ -55,7 +55,7 @@
     "@types/node": "22.9",
     "@typescript-eslint/eslint-plugin": "8.15",
     "@typescript-eslint/parser": "8.15",
-    "@vitest/coverage-v8": "^2.0.3",
+    "@vitest/coverage-v8": "^3.1.4",
     "color-blend": "^4.0.0",
     "color2k": "^2.0.3",
     "console-table-printer": "^2.12.1",
@@ -73,7 +73,7 @@
     "tsx": "^4.19.0",
     "typescript": "5.6",
     "typescript-eslint": "^8.16.0",
-    "vitest": "^2.0.3",
+    "vitest": "^3.1.4",
     "zod": "3.23",
     "zod-validation-error": "3.4"
   }
